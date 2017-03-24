@@ -15,6 +15,10 @@ smoothScroll('.className');
 ### Preloader 
 ```
 You Must Need Add myjsfunction.css
-Then 
+HTML
+<div class="preloader">
+    <!--Background Image Add in preloader-spinner Class -->
+    <div class="preloader-spinner"></div>
+</div>
 preloader();
 ```
