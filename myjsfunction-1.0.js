@@ -3,7 +3,7 @@ $(document).ready(function($){
 
 	// Scroll To Top
 	/* 
-		How to Active scrollToTop('.clasName'); 
+		How to Active scrollToTop('.className'); 
 	*/
 	function scrollToTop($topClass){   
 	    var top_0 = {scrollTop:0};
